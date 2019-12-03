@@ -1,0 +1,25 @@
+{
+  "name": "raj-weather-app",
+  "version": "1.0.0",
+  "description": "This is my first waether app in node",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.6",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raj3090/node-weather-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raj3090/node-weather-website/issues"
+  },
+  "homepage": "https://github.com/Raj3090/node-weather-website#readme"
+}
