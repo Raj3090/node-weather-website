@@ -1,0 +1,22 @@
+h1{
+    color: black;
+    text-align: center
+
+}
+
+footer {
+    background: blue
+}
+
+
+
+#nav_parent{
+    margin: auto;
+    width: fit-content;
+}
+
+form{
+    margin: auto;
+    width: fit-content;
+}
+
