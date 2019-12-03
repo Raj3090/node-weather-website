@@ -2,7 +2,7 @@
   "name": "raj-weather-app",
   "version": "1.0.0",
   "description": "This is my first waether app in node",
-  "main": "app.js",
+  "main": "src/app.js",
   "dependencies": {
     "express": "^4.17.1",
     "hbs": "^4.0.6",
