@@ -4,7 +4,7 @@
   "description": "This is my first waether app in node",
   "main": "src/app.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "hbs": "^4.0.6",
     "request": "^2.88.0"
   },
